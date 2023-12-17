@@ -1,0 +1,40 @@
+* 
+{
+    margin: 0;
+}
+
+h1 {
+
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 150px;
+    margin: 20px;
+}
+
+.navbar 
+{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    justify-content: center;
+    height: 50px;
+    text-align: start;
+    align-content: center;
+}
+
+
+.navbar a {
+
+    color: black;
+    text-decoration: none;
+}
+
+.navbar a:hover {
+
+    color: black;
+}
+
+main {
+
+    margin: 50px 250px;
+}
